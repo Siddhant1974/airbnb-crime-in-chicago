@@ -1,5 +1,5 @@
 
-# Contributors
+## Contributors
 Siddhant Nayar
 Dizhao Zhang (Project Manager)
 Ching Hsuan Lin
@@ -9,7 +9,7 @@ Siddharth Kant
 ## Project Overview
 This project explores the correlation between crime rates in Chicago and Airbnb listings, examining how crime impacts neighborhood safety, housing prices, and overall Airbnb performance. The goal is to provide data-driven insights for Airbnb hosts, policymakers, and other stakeholders to promote neighborhood safety while managing the growth of Airbnb listings.
 
-### Table of Contents
+## Table of Contents
 Introduction
 Business Problem
 Data Sources
@@ -18,7 +18,7 @@ Findings
 Visualization
 Recommendations
 How to Run the Code
-#### Introduction
+## Introduction
 Crime is a persistent issue in Chicago and has significant implications for businesses, especially those in the hospitality sector. Airbnb listings located in neighborhoods with high crime rates may experience reduced bookings as potential guests may feel unsafe. This project aims to understand the correlation between crime rates and Airbnb listings, focusing on crime trends, listing density, and the types of crimes that most impact Airbnb performance.
 
 ## Business Problem
